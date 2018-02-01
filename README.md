@@ -16,6 +16,8 @@ is set through Processing for some great neurofeedback expiriments.
 
 ![Screenshot of Processing Brain Grapher](https://github.com/kbrugh/Arduino-EEG-Graphing/blob/master/Screen-Shot-2018-01-31-at-10.12.17-PM.jpg)
 
+This is a super quick upload, and I'll come back to fill in more of the process.
+
 I have been learning, customizing and playing around with fantastic work created and shared by Eric Mika  
 eric@ericmika.com  
 https://github.com/kitschpatrol
